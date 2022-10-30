@@ -1,0 +1,21 @@
+body
+{
+   background-color:rgba(13, 100, 100, 0.61);
+   background-size: cover;
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+color:black;
+}
+.imagenes
+{
+    color:black;
+    font-size: 23px;
+    text-align: center ;
+    background-color: white;
+    border-radius:15px;
+    border:0px;
+}

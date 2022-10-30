@@ -1,0 +1,29 @@
+body
+{
+    background-size: cover;
+}
+#boton 
+{
+    background-color: aqua;
+    font-size:20px;
+    border-radius:20%;
+}
+#estado, #objetos_detectados
+{
+  background-color: rgb(73, 148, 102);
+  color:black;
+  border-radius:5px;
+}
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    color:black;
+}
+canvas
+{
+    background-color: rgb(121, 179, 75);
+    border-color: black;
+    margin:2px;
+}
